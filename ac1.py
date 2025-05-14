@@ -1,0 +1,10 @@
+t1=(2,45,6.3,33,"nihitha")
+print(t1)
+print(len(t1))
+t2=(46,7,90)
+total=t1+t2
+print(total)
+print("count:",total.count(3))
+print(total[2:4])
+print(total[:4])
+print(total[2:])
